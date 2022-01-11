@@ -102,4 +102,6 @@ theme: volantis
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://gitee.com/htmk1/bloc2022.git
+  branch: master
